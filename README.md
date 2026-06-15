@@ -51,7 +51,7 @@ Toda semana deve gerar pelo menos uma evidência técnica versionada.
 
 | Fase | Tema                               | Status       |
 | ---- | ---------------------------------- | ------------ |
-| 00   | Preparação                         | Não iniciado |
+| 00   | Preparação                         | Em Andamento |
 | 01   | Lógica, Git e terminal             | Não iniciado |
 | 02   | Java Core                          | Não iniciado |
 | 03   | Orientação a Objetos e Collections | Não iniciado |
